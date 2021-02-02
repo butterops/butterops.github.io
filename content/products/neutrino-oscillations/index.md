@@ -12,6 +12,7 @@ menu:
     parent: "browse"
 weight: 080
 toc: false
+type: "showcase"
 ---
 
 ## A Free eBook

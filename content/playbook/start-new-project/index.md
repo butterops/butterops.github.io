@@ -8,9 +8,10 @@ draft: false
 images: []
 menu: 
   tutorial:
-    parent: "tutorial"
+    parent: playbook
 weight: 030
 toc: true
+type: tutorial
 ---
 
 ### Create a new site

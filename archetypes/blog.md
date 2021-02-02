@@ -7,7 +7,7 @@ lastmod: {{ .Date }}
 draft: true
 weight: 50
 images: ["{{ .Name | urlize }}.jpg"]
-contributors: ["Henk Verlinde"]
+contributors: ["Kumar Gaurav"]
 ---
 
 {{< img src="{{ .Name | urlize }}.jpg" alt="{{ replace .Name "-" " " | title }}" caption="{{ replace .Name "-" " " | title }}" class="wide" >}}

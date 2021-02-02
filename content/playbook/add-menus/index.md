@@ -8,9 +8,10 @@ draft: false
 images: []
 menu: 
   tutorial:
-    parent: "tutorial"
+    parent: playbook
 weight: 060
 toc: true
+type: tutorial
 ---
 
 {{< img-simple src="menu-structure.png" alt="Menu Structure" class="border rounded p-1" >}}

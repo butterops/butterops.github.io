@@ -8,9 +8,10 @@ draft: false
 images: []
 menu: 
   tutorial:
-    parent: "tutorial"
+    parent: playbook
 weight: 050
 toc: true
+type: tutorial
 ---
 
 ## Customize the homepage
@@ -96,7 +97,7 @@ lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
 images: ["say-hello-to-doks.png"]
-contributors: ["Henk Verlinde"]
+contributors: ["Kumar Gaurav"]
 ---
 
 ## Solid as a rock

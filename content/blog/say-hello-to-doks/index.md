@@ -1,5 +1,5 @@
 ---
-title: "Say hello to Doks 👋"
+title: "Opens 15 offices in villages of Tamilnadu - Padma Shri Sridhar Vembu, Creator of Zoho"
 description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 lead: "Introducing Doks, a Hyas theme build by the creator of Hyas. Doks helps you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 date: 2020-11-04T09:19:42+01:00
@@ -7,7 +7,7 @@ lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
 images: ["say-hello-to-doks.png"]
-contributors: ["Henk Verlinde"]
+contributors: ["Kumar Gaurav"]
 ---
 
 Use the standard setup or easily make it your own.
@@ -42,7 +42,7 @@ Get all the [Hyas](https://gethyas.com/) goodness:
 
 There are two main ways to get started with Doks:
 
-1. [Tutorial]({{< ref "tutorial/introduction" >}}) — step-by-step instructions on how to start a new Doks project
+1. [Tutorial]({{< ref "playbook/introduction" >}}) — step-by-step instructions on how to start a new Doks project
 2. [Quick Start]({{< ref "docs/prologue/quick-start" >}}) — one page summary of how to start a new Doks project
 
 ## Go further
@@ -50,7 +50,7 @@ There are two main ways to get started with Doks:
 - [Recipes]({{< ref "docs/recipes/project-configuration" >}}). Get instructions on how to accomplish common tasks with Doks.
 - [Reference Guides]({{< ref "docs/reference-guides/security" >}}). Learn how to customize Doks to fully make it your own.
 - [Extensions]({{< ref "docs/extensions/add-google-fonts" >}}). Get instructions on how to add even more to Doks.
-- [Showcase]({{< ref "showcase/neutrino-oscillations" >}}). See what others have build with Doks.
+- [Showcase]({{< ref "products/neutrino-oscillations" >}}). See what others have build with Doks.
 
 ## Try Doks
 

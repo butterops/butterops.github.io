@@ -50,6 +50,15 @@ h6,
   /* font-size: calc(1.375rem + 1.5vw); */
   font-size: calc(2.875rem + 1.5vw);
 }
+@media (max-width: 544px) {
+  .home h1 {
+    font-size: calc(1.5rem + 1.5vw);
+  }
+  
+  .lead{
+    font-size: 1rem;
+  }
+}
 
 .section {
   padding-top: 5rem;

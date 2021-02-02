@@ -8,9 +8,10 @@ draft: false
 images: []
 menu: 
   tutorial:
-    parent: "tutorial"
+    parent: playbook
 weight: 040
 toc: true
+type: tutorial
 ---
 
 {{< alert icon="💡" text="<a href=\"https://code.visualstudio.com/\">Visual Studio Code</a> is a free code editor for Linux, macOS, and Windows." >}}

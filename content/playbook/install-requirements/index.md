@@ -8,9 +8,10 @@ draft: false
 images: []
 menu:
   tutorial:
-    parent: "tutorial"
+    parent: playbook
 weight: 020
 toc: true
+type: tutorial
 ---
 
 ## npm

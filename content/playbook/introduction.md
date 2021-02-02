@@ -8,9 +8,10 @@ draft: false
 images: []
 menu:
   tutorial:
-    parent: "tutorial"
+    parent: "playbook"
 weight: 010
 toc: false
+type: "tutorial"
 ---
 
 ## Steps

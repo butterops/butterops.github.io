@@ -12,4 +12,5 @@ menu:
     parent: "browse"
 weight: 090
 toc: false
+type: "showcase"
 ---
