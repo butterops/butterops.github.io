@@ -51,7 +51,7 @@
 
 [[main]]
   name = "Stories"
-  url = "/blog/"
+  url = "/stories/"
   weight = 40
 
 # [[main]]

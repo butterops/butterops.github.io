@@ -8,6 +8,7 @@ draft: false
 weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Kumar Gaurav"]
+type: blog
 ---
 
 Use the standard setup or easily make it your own.
