@@ -31,7 +31,7 @@
 [[main]]
   name = "Community"
   url = "/community/prologue/introduction/"
-  weight = 10
+  weight = 50
 
 [[main]]
   name = "Playbook"
