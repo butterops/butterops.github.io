@@ -44,13 +44,11 @@ Get all the [Hyas](https://gethyas.com/) goodness:
 There are two main ways to get started with Doks:
 
 1. [Tutorial]({{< ref "playbook/introduction" >}}) — step-by-step instructions on how to start a new Doks project
-2. [Quick Start]({{< ref "docs/prologue/quick-start" >}}) — one page summary of how to start a new Doks project
+2. [Quick Start]({{< ref "community/prologue/quick-start" >}}) — one page summary of how to start a new Doks project
 
 ## Go further
 
-- [Recipes]({{< ref "docs/recipes/project-configuration" >}}). Get instructions on how to accomplish common tasks with Doks.
-- [Reference Guides]({{< ref "docs/reference-guides/security" >}}). Learn how to customize Doks to fully make it your own.
-- [Extensions]({{< ref "docs/extensions/add-google-fonts" >}}). Get instructions on how to add even more to Doks.
+- [Reference Guides]({{< ref "community/reference-guides/security" >}}). Learn how to customize Doks to fully make it your own.
 - [Showcase]({{< ref "products/neutrino-oscillations" >}}). See what others have build with Doks.
 
 ## Try Doks

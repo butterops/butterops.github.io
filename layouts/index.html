@@ -90,9 +90,9 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-sm-12 col-lg-12 col-xl-12">
-        <h2 class="mt-3 text-center">Featured Blogs From the Community</h2>
+        <h2 class="mt-3 text-center">Featured Stories From the Community</h2>
         <div class="card-list">
-        {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "blog")  -}}
+        {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "stories")  -}}
         <div class="card">
           <!-- <img class="card-img-top" src="https://via.placeholder.com/150" alt="Card image cap"> -->
           <div class="card-body">

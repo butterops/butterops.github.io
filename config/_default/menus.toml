@@ -1,42 +1,36 @@
 [[docs]]
-  name = "Prologue"
+  name = "About"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "/community/prologue/"
 
 [[docs]]
   name = "Recipes"
   weight = 20
   identifier = "recipes"
-  url = "/docs/recipes/"
+  url = "/community/recipes/"
 
 [[docs]]
   name = "Reference Guides"
   weight = 30
   identifier = "reference-guides"
-  url = "/docs/reference-guides/"
-
-[[docs]]
-  name = "Extensions"
-  weight = 40
-  identifier = "extensions"
-  url = "/docs/extensions/"
+  url = "/community/reference-guides/"
 
 [[docs]]
   name = "Contributing"
   weight = 50
   identifier = "contributing"
-  url = "/docs/contributing/"
+  url = "/community/contributing/"
 
 [[docs]]
   name = "Help"
   weight = 60
   identifier = "help"
-  url = "/docs/help/"
+  url = "/community/help/"
 
 [[main]]
   name = "Community"
-  url = "/docs/prologue/introduction/"
+  url = "/community/prologue/introduction/"
   weight = 10
 
 [[main]]
@@ -92,7 +86,7 @@
 
 [[footer]]
   name = "Code of Conduct"
-  url = "/docs/contributing/code-of-conduct/"
+  url = "/communitycontributing/code-of-conduct/"
   weight = 20
 
 [[footer]]

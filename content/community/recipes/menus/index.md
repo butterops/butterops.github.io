@@ -1,22 +1,26 @@
 ---
-title: "4. Add Menus"
+title: "Menus"
 description: "Add pages or links to the main, social, docs, or footer menu."
 lead: "Add pages or links to the main, social, docs, or footer menu."
-date: 2020-11-30T14:27:39+01:00
-lastmod: 2020-11-30T14:27:39+01:00
+date: 2020-11-23T11:55:36+01:00
+lastmod: 2020-11-23T11:55:36+01:00
 draft: false
 images: []
 menu: 
-  tutorial:
-    parent: playbook
-weight: 060
+  docs:
+    parent: "recipes"
+weight: 150
 toc: true
-type: tutorial
+type: docs
 ---
 
 {{< img-simple src="menu-structure.png" alt="Menu Structure" class="border rounded p-1" >}}
 
-Open `./config/_default/menus.toml` in your code editor.
+See also the Hugo docs: [Menus](https://gohugo.io/content-management/menus/).
+
+```bash
+./config/_default/menus.toml
+```
 
 ## Add to main menu
 
@@ -53,8 +57,6 @@ Open `./config/_default/menus.toml` in your code editor.
 
 ## Add to docs menu
 
-Add first level menu items:
-
 ```toml
 [[docs]]
   name = "Prologue"
@@ -63,27 +65,10 @@ Add first level menu items:
   url = "/communityprologue/"
 
 [[docs]]
-  name = "Recipes"
-  weight = 20
-  identifier = "recipes"
-  url = "/communityrecipes/"
-
-[[docs]]
   name = "Help"
   weight = 50
   identifier = "help"
   url = "/communityhelp/"
-```
-
-Add second level menu items in the frontmatter of a [documentation page]({{< ref "add-pages#add-a-documentation-page" >}}):
-
-```md
-..
-menu:
-  docs:
-    parent: "prologue"
-weight: 010
-..
 ```
 
 ## Add to footer menu
