@@ -48,7 +48,6 @@ There are two main ways to get started with Doks:
 
 ## Go further
 
-- [Reference Guides]({{< ref "community/reference-guides/security" >}}). Learn how to customize Doks to fully make it your own.
 - [Showcase]({{< ref "products/neutrino-oscillations" >}}). See what others have build with Doks.
 
 ## Try Doks

@@ -1,5 +1,5 @@
 ---
-title: "4. Add Menus"
+title: "1.4 Software Devlivery"
 description: "Add pages or links to the main, social, docs, or footer menu."
 lead: "Add pages or links to the main, social, docs, or footer menu."
 date: 2020-11-30T14:27:39+01:00
@@ -73,17 +73,6 @@ Add first level menu items:
   weight = 50
   identifier = "help"
   url = "/communityhelp/"
-```
-
-Add second level menu items in the frontmatter of a [documentation page]({{< ref "add-pages#add-a-documentation-page" >}}):
-
-```md
-..
-menu:
-  docs:
-    parent: "prologue"
-weight: 010
-..
 ```
 
 ## Add to footer menu

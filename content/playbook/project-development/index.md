@@ -1,5 +1,5 @@
 ---
-title: "1. Start New Project"
+title: "1.2 Project Development"
 description: "Create a new site, change directories, install npm packages, and start development server."
 lead: "Create a new site, change directories, install npm packages, and start development server."
 date: 2020-11-30T14:24:13+01:00

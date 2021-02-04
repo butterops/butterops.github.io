@@ -1,5 +1,5 @@
 ---
-title: "Archetypes"
+title: "Language & Architecture"
 description: "Customize archetype templates for blog, default, and docs."
 lead: "Customize archetype templates for blog, default, and docs."
 date: 2020-09-21T13:58:42+02:00

@@ -1,5 +1,5 @@
 ---
-title: "Pages"
+title: "Revenue Model Options"
 description: "Add a default page, documentation page, blog post or contributor page. Customize the homepage and 404 page."
 lead: "Add a default page, documentation page, blog post or contributor page. Customize the homepage and 404 page."
 date: 2020-11-23T11:55:16+01:00

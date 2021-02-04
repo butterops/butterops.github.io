@@ -1,5 +1,5 @@
 ---
-title: "0. Install Requirements"
+title: "1.1 Project Setup"
 description: "Install npm to get started with Doks."
 lead: "Install npm to get started with Doks."
 date: 2020-11-18T08:20:35+01:00
