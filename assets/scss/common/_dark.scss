@@ -5,13 +5,13 @@
 $body-bg-dark: darken($black, 12%); //$gray-900;
 $body-overlay-dark: darken($body-bg-dark, 25%);
 $border-dark: darken($body-bg-dark, 50%);
-$body-color-dark: $gray-100;
+$body-color-dark: $gray-400;
 $dots-dark: darken($body-color-dark, 50%);
 
 $link-color-dark: $primary; //$blue-300;
 $button-color-dark: $primary; //$link-color-dark;
 $focus-color-dark: lighten($link-color-dark, 2.5%);
-$selection-color-dark: lighten($link-color-dark, 2.5%);
+$selection-color-dark: rgba($link-color-dark, .6);
 
 $navbar-dark-color:                 $body-color-dark;
 $navbar-dark-hover-color:           $link-color-dark;
