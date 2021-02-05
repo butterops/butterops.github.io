@@ -83,7 +83,7 @@
   margin-top: 0.25rem;
 }
 
-@include media-breakpoint-up(md) {
+@include media-breakpoint-up(lg) {
   .navbar-brand {
     margin-right: 1rem !important;
   }
@@ -107,13 +107,13 @@
 
 @include media-breakpoint-up(lg) {
   .navbar-form {
-    margin-left: 7rem;
+    margin-left: 1.5rem;
   }
 }
 
 @include media-breakpoint-up(xl) {
   .navbar-form {
-    margin-left: 24rem;
+    margin-left: 15rem;//24rem;
   }
 }
 
