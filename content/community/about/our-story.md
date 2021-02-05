@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "prologue"
+    parent: "about"
 weight: 010
 toc: true
 type: docs
@@ -28,7 +28,7 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →]({{<
 
 {{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< ref "quick-start" >}})
+One page summary of how to start a new Doks project. [Quick Start →]({{< ref "get-involved" >}})
 
 ## Go further
 

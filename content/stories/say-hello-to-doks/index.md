@@ -44,7 +44,7 @@ Get all the [Hyas](https://gethyas.com/) goodness:
 There are two main ways to get started with Doks:
 
 1. [Tutorial]({{< ref "playbook/introduction" >}}) — step-by-step instructions on how to start a new Doks project
-2. [Quick Start]({{< ref "community/prologue/quick-start" >}}) — one page summary of how to start a new Doks project
+2. [Quick Start]({{< ref "community/about/get-involved" >}}) — one page summary of how to start a new Doks project
 
 ## Go further
 

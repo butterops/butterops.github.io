@@ -1,8 +1,8 @@
 [[docs]]
   name = "About"
   weight = 10
-  identifier = "prologue"
-  url = "/community/prologue/"
+  identifier = "about"
+  url = "/community/about/"
 
 [[docs]]
   name = "Reference Guides"
@@ -19,7 +19,7 @@
 
 [[main]]
   name = "Community"
-  url = "/community/prologue/introduction/"
+  url = "/community/about/our-story/"
   weight = 50
 
 [[main]]
@@ -75,12 +75,12 @@
 
 [[footer]]
   name = "Code of Conduct"
-  url = "/communitycontributing/code-of-conduct/"
+  url = "/code-of-conduct/"
   weight = 20
 
 [[footer]]
-  name = "Community"
-  url = "https://github.com/h-enk/doks/discussions"
+  name = "Contributors"
+  url = "/contributors"
   weight = 30
 
 [[tutorial]]
