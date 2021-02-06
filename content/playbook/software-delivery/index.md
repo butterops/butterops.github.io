@@ -1,5 +1,5 @@
 ---
-title: "1.4 Software Devlivery"
+title: "Software Delivery and Distribution"
 description: "Add pages or links to the main, social, docs, or footer menu."
 lead: "Add pages or links to the main, social, docs, or footer menu."
 date: 2020-11-30T14:27:39+01:00

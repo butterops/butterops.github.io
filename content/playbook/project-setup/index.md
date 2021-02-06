@@ -1,5 +1,5 @@
 ---
-title: "1.1 Project Setup"
+title: "Setting up Project for Development"
 description: "Install npm to get started with Doks."
 lead: "Install npm to get started with Doks."
 date: 2020-11-18T08:20:35+01:00

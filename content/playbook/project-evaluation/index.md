@@ -1,5 +1,5 @@
 ---
-title: "1.3 Project Evaluation"
+title: "Project Evaluation"
 description: "Customize the homepage, add a blog post, and add a documentation page."
 lead: "Customize the homepage, add a blog post, and add a documentation page."
 date: 2020-11-30T14:27:30+01:00

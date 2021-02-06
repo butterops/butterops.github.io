@@ -1,22 +1,25 @@
+###############################
+##### COMMUNITY PAGE MENU #####
+###############################
 [[docs]]
   name = "About Us"
   weight = 10
   identifier = "about"
   url = "/community/about/"
-
-[[docs]]
-  name = "References"
-  weight = 30
-  identifier = "recipes"
-  url = "/community/recipes/"
-  # ServerLess, StaticSite Generation, PWAs, No-Code Development
-
+  
 [[docs]]
   name = "Help & Guides"
   weight = 20
   identifier = "help"
   url = "/community/help/"
+###############################
+##### COMMUNITY PAGE MENU #####
+###############################
 
+
+###############################
+##### MAIN LEFT NAV MENU #####
+###############################
 [[main]]
   name = "Community"
   url = "/community/about/our-story/"
@@ -36,17 +39,19 @@
   name = "Stories"
   url = "/stories/"
   weight = 40
+###############################
+##### MAIN LEFT NAV MENU #####
+###############################
 
-# [[main]]
-#   name = "Community"
-#   url = "https://github.com/h-enk/doks/discussions"
-#   weight = 50
 
-[[social]]
-  name = "Twitter"
-  pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-twitter\"><path d=\"M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z\"></path></svg>"
-  url = "https://twitter.com/gethyas"
-  weight = 10
+###############################
+##### MAIN RIGHT NAV MENU #####
+###############################
+# [[social]]
+#   name = "Twitter"
+#   pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-twitter\"><path d=\"M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z\"></path></svg>"
+#   url = "https://twitter.com/gethyas"
+#   weight = 10
 
 
 # [[social]]
@@ -67,7 +72,13 @@
   url = "https://github.com/butterops"
   post = "v0.1.0"
   weight = 20
+###############################
+##### MAIN RIGHT NAV MENU #####
+###############################
 
+###############################
+##### FOOTER MENU #####
+###############################
 [[footer]]
   name = "Privacy"
   url = "/privacy-policy/"
@@ -82,23 +93,36 @@
   name = "Contributors"
   url = "/contributors"
   weight = 30
+###############################
+##### FOOTER MENU #####
+###############################
+
+
+###############################
+##### PLAYBOOK PAGE MENU #####
+###############################
+[[tutorial]]
+  name = "Prologue"
+  weight = 10
+  identifier = "prologue"
+  url = "/playbook/introduction"
 
 [[tutorial]]
-  name = "Creating Digital Tools"
-  weight = 10
+  name = "1. Create Your MVP"
+  weight = 20
   identifier = "playbook"
   url = "/playbook/developer-guide"
 
 [[tutorial]]
-  name = "Growing Products"
-  weight = 20
+  name = "2. Grow your Audience"
+  weight = 30
   identifier = "opensource"
   url = "/playbook/open-source-guide"
   # Start os, build community, Maintain, Govern
 
 [[tutorial]]
-  name = "Sustaing Operations"
-  weight = 30
+  name = "3. Sustain Development and Operations"
+  weight = 40
   identifier = "operations"
   url = "/playbook/operations"
   # legal, revenue and users
@@ -108,3 +132,6 @@
   weight = 10
   identifier = "browse"
   url = "/products/"
+###############################
+##### PLAYBOOK PAGE MENU #####
+###############################

@@ -1,5 +1,5 @@
 ---
-title: "1.0 Introduction"
+title: "How to use this playbook? "
 description: "ButterOps offers the following Developers’ Guide for creating Digital Tools to support the modern standards of SDLC."
 lead: "ButterOps offers the following Developers’ Guide for Creating Digital Tools to support the modern standards of SDLC."
 date: 2020-11-17T20:11:42+01:00
@@ -8,7 +8,8 @@ draft: false
 images: []
 menu:
   tutorial:
-    parent: "playbook"
+    parent: "prologue"
+
 weight: 010
 toc: false
 type: "tutorial"
