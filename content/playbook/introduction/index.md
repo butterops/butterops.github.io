@@ -15,7 +15,7 @@ toc: false
 type: "tutorial"
 ---
 
-## Prologue
-The Guide provides software developers with recommended best practices with the objective of maximizing quality throughout the software development process.
+## Disclaimer!
+The playbook provides software developers with recommended best practices with the objective of maximizing quality throughout the software development process.
 
 ButterOps promotes the expanded impact of investments in technology by maintaining a commitment to the creation of high-quality, open-source digital tools. This is intended to reinforce a digital tool’s original purpose to support a public good, as well as facilitate its future adaptation or reuse in additional contexts beyond, thus transferring valuable knowledge from one experience to another.

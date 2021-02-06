@@ -9,48 +9,27 @@ images: []
 menu:
   docs:
     parent: "about"
-weight: 630
+weight: 030
 toc: true
 type: docs
 
 ---
 
-## Hyas?
+## What is ButterOps.Dev?
 
-Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+ButterOps.Dev is a space for collaborative open source software development. Our mission is to provide project hosting, continuous integration tooling, and virtual collaboration spaces for open Source software projects.
 
-## Node.js?
+Additionally all of the services we run are mostly open source software themselves.
 
-[Node.js](https://nodejs.org/) is used to [manage dependencies]({{< ref "how-to-update" >}}) and [provide custom build scripts]({{< ref "commands" >}}).
+## How to Join?
 
-## Footer notice?
+You can join us by sending an invite request on our slack workspace https://butterops.slack.com.
+Or, you can also click on this link [#our-slack-workspace](https://butterops.slack.com)
 
-Please keep it in place.
+## Are the services chargeable at some point?
 
-## Keyboard shortcuts for search?
+Absolutely not!! We will be forever free.
 
-- focus: `/`
-- select: `↓` and `↑`
-- open: `Enter`
-- close: `Esc`
+## What is the current status of the services?
 
-## Other documentation?
-
-- [Netlify](https://docs.netlify.com/)
-- [Hugo](https://gohugo.io/documentation/)
-
-## Can I get support?
-
-Create a topic:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
-
-## Contact the creator?
-
-Send `h-enk` a message:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+We are still early in the process of building this out. The early experience might be a bit bumpy.

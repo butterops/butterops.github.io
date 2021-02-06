@@ -1,7 +1,7 @@
 ---
 title: "Get Involved"
-description: "One page summary of how to start a new Doks project."
-lead: "One page summary of how to start a new Doks project."
+description: ""
+lead: ""
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -14,48 +14,19 @@ toc: true
 type: docs
 ---
 
-## Requirements
+> We use slack as our primary collaboration platform, join our [#slack channel](https://butterops.slack.com)
 
-Doks uses npm for dependency management and customized build scripts. Installing npm is pretty simple. Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform. I recommend installing the current release.
+If you are having trouble sending slack join request, you can also mail us at [team@butterops.dev](mailto:team@butterops.dev)
 
-## Start a new Doks project
+### BLOGGER 
 
-Create a new site, change directories, install npm packages, and start development server.
+Contribute case studies, training materials and other less-technical content to the community and get credit for it!
 
-### Create a new site
+### CONTRIBUTOR 
+Work on our code, help manage issues, improve documentation and engage in community support!
 
-{{< btn-copy text="git clone https://github.com/h-enk/doks.git my-doks-site" >}}
+### EVANGELIST 
+Present, train or speak about community and other topics at various meetups, camps and conferences and generally spread the good word far and wide!
 
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site
-```
-
-### Change directories
-
-{{< btn-copy text="cd my-doks-site" >}}
-
-```bash
-cd my-doks-site
-```
-
-### Install npm packages
-
-{{< btn-copy text="npm install" >}}
-
-```bash
-npm install
-```
-
-### Start development server
-
-{{< btn-copy text="npm run start" >}}
-
-```bash
-npm run start
-```
-
-Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
-
-## Other commands
-
-Doks comes with commands for common tasks. [Commands →]({{< ref "commands" >}})
+### UP-SELLER 
+Help convince my org, boss or relevant decision maker to sponsor any one of the ButterOps projects!

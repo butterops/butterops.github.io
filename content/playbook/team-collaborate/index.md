@@ -1,15 +1,15 @@
 ---
-title: "Project Evaluation"
+title: "Collaborating with Contributors"
 description: ""
 lead: ""
-date: 2020-11-30T14:27:30+01:00
-lastmod: 2020-11-30T14:27:30+01:00
+date: 2020-11-30T14:24:13+01:00
+lastmod: 2020-11-30T14:24:13+01:00
 draft: false
 images: []
 menu: 
   tutorial:
     parent: playbook
-weight: 050
+weight: 040
 toc: true
 type: tutorial
 ---

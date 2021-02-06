@@ -1,7 +1,7 @@
 ---
 title: "Our Story"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: ""
+lead: ""
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -14,31 +14,15 @@ toc: true
 type: docs
 ---
 
-## Get started
+`ButterOps Dev Community` is a free and open organization headquartered in Bengaluru, India. I [@mrdotkg](https://www.github.com/mrdotkg), brought this multi disciplinary software team together in early 2020. Our founding team includes experts in Product / SaaS Development.
 
-There are two main ways to get started with Doks:
+Today, we empower digital literacy among software developers with open-source tools and services.
 
-### Tutorial
-
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
-
-Step-by-step instructions on how to start a new Doks project. [Tutorial →]({{< ref "playbook/introduction" >}})
-
-### Quick Start
-
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
-
-One page summary of how to start a new Doks project. [Quick Start →]({{< ref "get-involved" >}})
-
-## Go further
-
-Recipes, Reference Guides, Extensions, and Showcase.
+> ‘Open’ isn’t just a technological shift, it’s “how we’ll work, live, and learn in the future”.
+>
+> -- <cite>David Price</cite>
 
 
-### Showcase
+Collaborate with us to start and grow your - `online service` | `side projects` | `software skills`.
 
-See what others have build with Doks. [Showcase →]({{< ref "neutrino-oscillations" >}})
-
-## Help
-
-Get help on Doks. [Help →]({{< ref "how-to-update" >}})
+Join our #slack workspace today!

@@ -32,7 +32,7 @@
 
 [[main]]
   name = "Products"
-  url = "/products/neutrino-oscillations/"
+  url = "/products/open-sourced/"
   weight = 30
 
 [[main]]
@@ -126,12 +126,24 @@
   identifier = "operations"
   url = "/playbook/operations"
   # legal, revenue and users
-
-[[showcase]]
-  name = "Browse"
-  weight = 10
-  identifier = "browse"
-  url = "/products/"
 ###############################
 ##### PLAYBOOK PAGE MENU #####
+###############################
+
+###############################
+##### PRODUCTS PAGE MENU #####
+###############################
+[[showcase]]
+  name = "Browse"
+  weight = 20
+  identifier = "browse"
+  url = "/products/browse"
+
+[[showcase]]
+  name = "Contribute / Try"
+  weight = 10
+  identifier = "try"
+  url = "products/try/"
+###############################
+##### PRODUCTS PAGE MENU #####
 ###############################

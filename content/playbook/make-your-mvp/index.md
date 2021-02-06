@@ -1,5 +1,5 @@
 ---
-title: "Software Delivery and Distribution"
+title: "What is an MVP?"
 description: ""
 lead: ""
 date: 2020-11-30T14:27:39+01:00
@@ -9,7 +9,7 @@ images: []
 menu: 
   tutorial:
     parent: playbook
-weight: 060
+weight: 020
 toc: true
 type: tutorial
 ---

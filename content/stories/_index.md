@@ -8,4 +8,4 @@ images: []
 type: blog
 ---
 
-Brough to you by ButterOps.Dev community members.
+Open-authored venturing blogs, maintained and brought to you by ButterOps.
