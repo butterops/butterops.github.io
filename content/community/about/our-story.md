@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "about"
 weight: 010
-toc: true
+toc: false
 type: docs
 ---
 

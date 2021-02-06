@@ -43,5 +43,5 @@ alert = false
 alertText = "Released <a target=\"blank\" class=\"alert-link\" href=\"https://chrome.google.com/webstore/detail/refer-web-clipper/ijklgagbolpfgfjkclcgcepdbiopnikh?hl=en\">Refer Ext.</a> into marketplace."
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/butterops/butterops.dev"
 editPage = true
