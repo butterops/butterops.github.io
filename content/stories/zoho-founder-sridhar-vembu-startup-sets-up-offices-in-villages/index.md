@@ -1,5 +1,5 @@
 ---
-title: "Padma Shri Sridhar Vembu's US $2.51B IT startup `ZOHO` has offices across 15 remote villages of India"
+title: "Padma Shri Sridhar Vembu's US $2.51B IT startup ZOHO has offices across 15 remote villages of India"
 description: ""
 lead: ""
 date: 2020-11-04T09:19:42+01:00

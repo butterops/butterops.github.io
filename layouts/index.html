@@ -8,7 +8,7 @@
       <p class="lead">{{ .Params.Lead | safeHTML }}</p>
       <a class="btn btn-primary btn-lg px-4 mb-2" href="https://butterops.slack.com" role="button">Join Our
         Community</a>
-      <p class="meta">Open-sourced <a href="">products</a> and free <a href="">newsletter</a> for you.</p>
+      <p class="meta">Open-sourced <a href="/products/open-sourced">products</a> and free <a href="#">newsletter</a> for you.</p>
     </div>
   </div>
 </section>
@@ -72,12 +72,11 @@
   </div>
 </section> -->
 
-
 <section class="section">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-sm-14 col-lg-12">
-        <h2 class="mt-3 text-center">Featured Stories From the Community</h2>
+        <h2 class="mt-3 text-center">Featured stories from the community</h2>
         <div class="card-list">
           {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "stories") -}}
           <div class="card">

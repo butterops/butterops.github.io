@@ -37,7 +37,7 @@ lqipWidth = "20x"
 
 # Footer
 # footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
-footer = "Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public."
+footer = "Our mission is to encourage and empower social entrepreneurship among developers for free. We accomplish this by creating quality tools, articles and starting up guides - all freely available to the public."
 
 # Alert
 alert = false

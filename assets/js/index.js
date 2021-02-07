@@ -84,7 +84,7 @@ Source:
   });
 
   var docs = [
-    {{ range $index, $page := (where .Site.Pages "Section" "docs") -}}
+    {{ range $index, $page := (where .Site.Pages "Section" "playbook" ) -}}
       {
         id: {{ $index }},
         href: "{{ .Permalink | absURL }}",

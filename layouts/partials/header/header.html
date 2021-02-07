@@ -1,3 +1,11 @@
+<script>
+  if (localStorage.getItem('theme') === 'dark') {
+document.body.classList.add('dark');
+
+}else if (localStorage.getItem('theme') === 'light')
+document.body.classList.remove('dark');
+</script>
+
 <div class="header-bar fixed-top"></div>
 <header class="navbar fixed-top navbar-expand-lg navbar-light">
   <div class="container">
@@ -32,8 +40,8 @@
       </ul>
       <div class="break order-6 d-lg-none"></div>
       <form class="navbar-form flex-grow-1 order-7 order-lg-3">
-        <input id="userinput" class="form-control is-search" type="search" placeholder="Search..." aria-label="Search docs..." autocomplete="off">
-        <div id="suggestions" class="shadow bg-white rounded"></div>
+        <input id="userinput" class="form-control is-search" type="search" placeholder="Search playbook..." aria-label="Search docs..." autocomplete="off">
+        <div id="suggestions" class="shadow bg-primary rounded"></div>
       </form>
     </div>
   </div>

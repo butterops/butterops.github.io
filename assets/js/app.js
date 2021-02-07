@@ -5,12 +5,6 @@ document.getElementById('mode').addEventListener('click', () => {
   console.log('swithced')
 });
 
-if (localStorage.getItem('theme') === 'dark') {
-
-  document.body.classList.add('dark');
-
-}
-
 /* eslint-disable */
 window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
 
