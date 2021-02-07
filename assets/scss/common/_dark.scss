@@ -23,7 +23,9 @@ body.dark {
   background: $body-bg-dark;
   color: $body-color-dark;
 }
-
+body.dark .section.feature{
+  background: darken($body-bg-dark, 5%);
+}
 body.dark a {
   color: $link-color-dark;
 }
