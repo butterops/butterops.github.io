@@ -2,7 +2,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self'; frame-ancestors https://mrdot.in; manifest-src 'self'; font-src 'self'; form-action 'self'; img-src 'self' data:; worker-src 'self' blob:; style-src 'self'
+  Content-Security-Policy: frame-ancestors https://mrdot.in; manifest-src 'self'; font-src 'self'; form-action 'self'; img-src 'self' data:; worker-src 'self' blob:; style-src 'self'
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
   Feature-Policy: geolocation 'self'
