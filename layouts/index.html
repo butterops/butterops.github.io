@@ -15,10 +15,6 @@
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
-<!-- <div class="d-flex justify-content-start">
-  <div class="bg-dots"></div>
-</div> -->
-
 <section class="section feature">
   <div class="container">
     <h2 class="text-center pb-3">Already working on your idea?</h2>
@@ -26,24 +22,24 @@
       <div class="col-sm-10 col-md-7 col-lg-6 ">
         <h2 class="h4">Kickstart</h2>
         <p>
-          Get A+ scores on out of the box. Easily change the default Security Headers to suit your needs.
+          Complete the inital prototype of your idea. Often the last 5% of work takes 95% of our time.
         <p>
-        </p><a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Make your MVP →</a></p>
+        </p><a href="/playbook/make-your-mvp">Make your MVP →</a></p>
       </div>
       <div class="col-sm-10 col-md-7 col-lg-6">
         <h2 class="h4">Grow</h2>
-        <p>Get 100 scores on Google Lighthouse by default. Doks removes unused css, prefetches.</p>
-        </p><a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Create your audience →</a></p>
+        <p>Reach to your future users and provide a medium so that they can stay updated with your work.</p>
+        </p><a href="/playbook/make-your-mvp">Create your audience →</a></p>
       </div>
       <div class="col-sm-10 col-md-7 col-lg-6">
         <h2 class="h4">Sustain</h2>
-        <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to.</p>
-        </p><a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Use NoCode and NoOps →</a></p>
+        <p>Enterprise products don't need high maintainance in the begining. Integrate the best services wisely.</p>
+        </p><a href="/playbook/make-your-mvp">Use NoCode and NoOps →</a></p>
       </div>
       <div class="col-sm-10 col-md-7 col-lg-6">
         <h2 class="h4">Earn</h2>
-        <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO.</p>
-        </p><a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Getting first few users →</a></p>
+        <p>Provide consultancy, start a SasS or use your product for showcasing and marketing.</p>
+        </p><a href="/playbook/make-your-mvp">Getting first few users →</a></p>
       </div>
     </div>
   </div>
@@ -51,13 +47,11 @@
 {{ end }}
 
 {{ define "sidebar-footer" }}
-
-
 <!-- <section class="section section-sm mt-n3">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-10 col-lg-8 col-xl-6">
-        <h2 class="h3 mt-3 text-center">Doks Showcase</h2>
+        <h2 class="h3 mt-3 text-center">Products Showcase</h2>
         <div class="card-list">
         {{ range first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "showcase")  -}}
         <div class="card bg-light">
@@ -93,6 +87,7 @@
     </div>
   </div>
 </section>
+
 <div class="d-flex justify-content-end">
   <div class="bg-dots bg-dots-md"></div>
 </div>
@@ -122,5 +117,4 @@
     </div>
   </div>
 </section>
-
 {{ end }}

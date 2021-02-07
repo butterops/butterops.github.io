@@ -4,10 +4,10 @@
 title = "ButterOps Dev"
 titleSeparator = "-"
 titleAddition = "Promoting Social Entrepreneurship"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description = "ButterOps Dev Community is a free and open organization headquartered in Bengaluru, India. I @mrdotkg, brought this multi disciplinary software team together in early 2020. Our founding team includes experts in Product / SaaS Development. Grow your - online service | side projects | software skills."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
+images = [""]
 twitterSite = "henkverlinde"
 twitterCreator = "henkverlinde"
 facebookAuthor = "verlinde.henk"
@@ -16,7 +16,7 @@ ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "logo-doks.png"
+schemaLogo = "logo.png"
 schemaTwitter = "https://twitter.com/henkverlinde"
 schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaGitHub = "https://github.com/h-enk"
@@ -36,7 +36,6 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-# footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 footer = "Our mission is to encourage and empower social entrepreneurship among developers for free. We accomplish this by creating quality tools, articles and starting up guides - all freely available to the public."
 
 # Alert

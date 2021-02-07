@@ -20,7 +20,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://getdoks.org"
+    baseUrl = "https://butterops.dev"
     sitemapPath = "/sitemap.xml"
     providers = [
       "google",

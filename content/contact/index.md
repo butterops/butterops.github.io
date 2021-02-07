@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-{{< email user="hello" domain="getdoks.org" >}}
+{{< email user="team" domain="butterops.dev" >}}
