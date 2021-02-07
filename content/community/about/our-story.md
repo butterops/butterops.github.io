@@ -14,15 +14,14 @@ toc: false
 type: docs
 ---
 
-`ButterOps Dev Community` is a free and open organization headquartered in Bengaluru, India. I [@mrdotkg](https://www.github.com/mrdotkg), brought this multi disciplinary software team together in early 2020. Our founding team includes experts in Product / SaaS Development.
+**ButterOps Dev Community** is a free and open organization headquartered in Bengaluru, India. I [@mrdotkg](https://www.github.com/mrdotkg), brought this multi disciplinary software team together in early 2020. Our founding team includes experts in `Product/SaaS Development`.
 
 Today, we empower digital literacy among software developers with open-source tools and services.
+
+Collaborate with us to start and grow your - `online service` | `side projects` | `software skills`.
+
+<hr>
 
 > ‘Open’ isn’t just a technological shift, it’s “how we’ll work, live, and learn in the future”.
 >
 > -- <cite>David Price</cite>
-
-
-Collaborate with us to start and grow your - `online service` | `side projects` | `software skills`.
-
-Join our #slack workspace today!

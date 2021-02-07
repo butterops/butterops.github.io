@@ -93,6 +93,11 @@
   name = "Contributors"
   url = "/contributors"
   weight = 30
+
+[[footer]]
+  name = "Contact"
+  url = "/contact"
+  weight = 40
 ###############################
 ##### FOOTER MENU #####
 ###############################
@@ -134,7 +139,7 @@
 ##### PRODUCTS PAGE MENU #####
 ###############################
 [[showcase]]
-  name = "Browse"
+  name = "Showcase"
   weight = 20
   identifier = "browse"
   url = "/products/browse"

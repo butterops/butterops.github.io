@@ -10,11 +10,12 @@ link: "https://github.com/butterops"
 menu:
   showcase:
     parent: "try"
+    name: "Open Sourced Products"
 weight: 010
 toc: false
 type: "showcase"
 ---
 
-Although, the title say's don't pay, most of these OSS projects are made by independent developers on their free time, consider donating them on github sponsors or other mediums.
+Although, the title say don't pay, most of these OSS projects are made by independent developers on their free time, consider donating them on github sponsors or other mediums.
 
 **Note:** The products showcase is empty. [Upload your product]({{< ref "community/help/showcase-product/index.md" >}}) or visit [https://github.com/butterops/](https://github.com/butterops/) for few upcoming products. 

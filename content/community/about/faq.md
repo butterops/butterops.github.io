@@ -11,6 +11,7 @@ menu:
     parent: "about"
 weight: 030
 toc: false
+editPage: false
 type: docs
 
 ---

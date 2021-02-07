@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "ButterOps.Dev"
+title = "ButterOps Dev"
 titleSeparator = "-"
 titleAddition = "Promoting Social Entrepreneurship"
 description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
@@ -36,7 +36,8 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+# footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public."
 
 # Alert
 alert = false
