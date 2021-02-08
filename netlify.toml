@@ -27,3 +27,28 @@
       "bing",
       "yandex"
     ]
+
+[[redirects]]
+  from = "/playbook"
+  to = "/playbook/introduction"
+  status = 301
+  force = false
+  query = {path = ":path"}
+
+[[redirects]]
+  from = "/products"
+  to = "/products/open-sourced"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/community"
+  to = "/community/our-story"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/about"
+  to = "/community/our-story"
+  status = 301
+  force = false

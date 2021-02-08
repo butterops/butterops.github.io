@@ -5,13 +5,13 @@
   name = "About Us"
   weight = 10
   identifier = "about"
-  url = "/community/about/"
+  # url = "/about/"
   
 [[docs]]
   name = "Help & Guides"
   weight = 20
   identifier = "help"
-  url = "/community/help/"
+  # url = "/help/"
 ###############################
 ##### COMMUNITY PAGE MENU #####
 ###############################
@@ -22,7 +22,7 @@
 ###############################
 [[main]]
   name = "Community"
-  url = "/community/about/our-story/"
+  url = "/community/our-story/"
   weight = 50
 
 [[main]]
