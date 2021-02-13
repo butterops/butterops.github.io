@@ -14,7 +14,7 @@ toc: false
 type: docs
 ---
 
-**ButterOps Dev** is an open organization headquartered in Bengaluru, India. I [@mrdotkg](https://www.github.com/mrdotkg), brought this multi disciplinary software team together in early 2020. Our founding team includes experts in `Product/SaaS Development`.
+**ButterOps** is an open organization headquartered in Bengaluru, India. I [@mrdotkg](https://www.github.com/mrdotkg), brought this multi disciplinary software team together in early 2020. Our founding team includes experts in `Product/SaaS Development`.
 
 Today, we empower digital literacy among software developers with open-source tools and services.
 
