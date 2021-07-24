@@ -5,6 +5,8 @@ date: 2020-08-27T17:23:00Z
 lastmod: 2020-08-27T17:23:18Z
 draft: false
 images:
+toc: true
+
 ---
 
 ## Our Pledge
