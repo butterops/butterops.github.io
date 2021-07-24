@@ -35,7 +35,7 @@
 
 [[redirects]]
   from = "/products/"
-  to = "/products/open-sourced/"
+  to = "/products/glimpse/"
   status = 301
   force = false
 

@@ -10,6 +10,6 @@ menu:
   tutorial:
     parent: playbook
 weight: 040
-toc: true
+toc: false
 type: tutorial
 ---

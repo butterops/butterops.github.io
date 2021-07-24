@@ -9,7 +9,7 @@ images: []
 menu:
   tutorial:
     parent: "prologue"
-    name: "How to Use?"
+    name: "Prologue"
 
 weight: 010
 toc: false

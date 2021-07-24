@@ -24,8 +24,8 @@ Additionally all of the services we run are mostly open source software themselv
 
 ## How to Join?
 
-You can join us by sending an invite request on our slack workspace https://butterops.slack.com.
-Or, you can also click on this link [#our-slack-workspace](https://butterops.slack.com)
+You can join us by sending an invite request on our discord community https://discord.gg/hSx7Kcs6mN.
+Or, you can also click on this link [#our-discord](https://discord.gg/hSx7Kcs6mN)
 
 ## Are the services chargeable at some point?
 

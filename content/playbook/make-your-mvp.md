@@ -9,7 +9,8 @@ images: []
 menu: 
   tutorial:
     parent: playbook
+    name: "Create your MVP"
 weight: 020
-toc: true
+toc: false
 type: tutorial
 ---

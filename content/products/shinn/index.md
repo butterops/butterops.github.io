@@ -1,12 +1,12 @@
 ---
-title: "Shinn VM"
+title: "Shinn VM - Smart dev machine for enterprise teams"
 description: ""
 lead: ""
 date: 2020-11-06T18:10:18+01:00
 lastmod: 2020-11-06T18:10:18+01:00
 draft: false
 images: ["shinnvm.png"]
-link: "https://github.com/butterops"
+link: "https://github.com/butterops/shinn"
 menu:
   showcase:
     parent: "browse"
@@ -15,5 +15,3 @@ weight: 010
 toc: false
 type: "showcase"
 ---
-
-Although, the title say don't pay, most of these OSS projects are made by independent developers on their free time, consider donating them on github sponsors or other mediums.
