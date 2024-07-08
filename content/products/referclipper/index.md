@@ -10,7 +10,7 @@ link: "https://github.com/butterops/refer"
 menu:
   showcase:
     parent: "browse"
-    name: "Refer Web Clipper"
+    name: "Refer Web Clipper for Chrome"
 weight: 010
 toc: false
 type: "showcase"
