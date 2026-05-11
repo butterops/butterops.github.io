@@ -40,7 +40,7 @@
     "eslint": "^7.18",
     "flexsearch": "^0.6",
     "hugo-bin": "^0.68.0",
-    "instant.page": "^5.1",
+    "instant.page": "^5.2",
     "lazysizes": "^5.3",
     "markdownlint-cli": "^0.26",
     "netlify-lambda": "^2.0",
